@@ -60,6 +60,6 @@ python3 adxl345_test.py
 
 Сборка схемы:
 
-![Схема подключения ADXL345](https://private-user-images.githubusercontent.com/47589206/350702457-c3842f90-9a11-44ce-b28b-e786876b1589.png)
+![Схема подключения ADXL345](https://private-user-images.githubusercontent.com/47589206/350702457-c3842f90-9a11-44ce-b28b-e786876b1589.png).
 
 
