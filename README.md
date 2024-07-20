@@ -63,4 +63,11 @@ python3 adxl345_test.py
 ![image](https://github.com/user-attachments/assets/486d33c8-c7db-4a40-9a96-5dad6423f504)
 
 
+## 2. Создание скрипта для чтения/записи pn532
 
+Скрипт находится в репозитории
+
+```bash
+python3 pn532_test.py
+```
+P.S. Данные для записи передавать в формате b'text'
